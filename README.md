@@ -1,6 +1,6 @@
-# Bank API Challenge
+# Bank Account API (https://github.com/ViniMnzs/nestjs-bank-account)
 
-This project is a take-home technical challenge that implements a simple RESTful API for managing basic banking operations. It handles balance inquiries, deposits, withdrawals, and transfers using in-memory data only — no persistence layer is required.
+This project implements a simple RESTful API for managing basic banking operations. It handles balance inquiries, deposits, withdrawals, and transfers using in-memory data only — no persistence layer is required.
 
 The main goal is to provide a clean, maintainable, and testable implementation, keeping the code simple, malleable, and focused on the provided specification.
 
@@ -28,7 +28,7 @@ Clone the repository and install the dependencies:
 
 ```bash
 git clone <your-repo-url>
-cd bank-api-challenge
+cd nestjs-bank-account
 npm install
 ```
 
